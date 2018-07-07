@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+
+  height: 100vh;
+
+  background-color: #111111;
+
+  font-family: sans-serif;
+
+  color: #222222;
+
+  display: flex;
+
+  flex-direction: column;
+
+  overflow: hidden;
+}
+
+#root {
+  flex: 1;
+
+  display: flex;
+
+  flex-direction: column;
+
+  padding: 1vmin;
+  padding-top: 0;
+}
