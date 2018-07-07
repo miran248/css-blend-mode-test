@@ -4,12 +4,12 @@ import Vibrant from "node-vibrant";
 import Color from "color";
 
 const images = [
-  "/sunset-1899043_1920.jpg", // https://pixabay.com/en/sunset-sky-afterglow-twilight-1899043/
-  "/janets-foss-2451389_1920.jpg", // https://pixabay.com/en/janet-s-foss-malham-yorkshire-2451389/
-  "/desert-1654439_1920.jpg", // https://pixabay.com/en/desert-dunes-algodones-dunes-1654439/
-  "/tree-1056598_1920.jpg", // https://pixabay.com/en/tree-snow-winter-landscape-1056598/
-  "/winter-landscape-2571788_1920.jpg", // https://pixabay.com/en/winter-landscape-trees-snow-nature-2571788/
-  "/yellowstone-national-park-1581879_1920.jpg", // https://pixabay.com/en/yellowstone-national-park-wyoming-1581879/
+  "sunset-1899043_1920.jpg", // https://pixabay.com/en/sunset-sky-afterglow-twilight-1899043/
+  "janets-foss-2451389_1920.jpg", // https://pixabay.com/en/janet-s-foss-malham-yorkshire-2451389/
+  "desert-1654439_1920.jpg", // https://pixabay.com/en/desert-dunes-algodones-dunes-1654439/
+  "tree-1056598_1920.jpg", // https://pixabay.com/en/tree-snow-winter-landscape-1056598/
+  "winter-landscape-2571788_1920.jpg", // https://pixabay.com/en/winter-landscape-trees-snow-nature-2571788/
+  "yellowstone-national-park-1581879_1920.jpg", // https://pixabay.com/en/yellowstone-national-park-wyoming-1581879/
 ];
 
 const Base = styled.div`
